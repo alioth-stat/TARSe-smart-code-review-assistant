@@ -1,4 +1,5 @@
-# TARSe
+#<img width="1024" height="1024" alt="TARSe" src="https://github.com/user-attachments/assets/9862b75a-2842-4704-b251-ce5aa0d41c20" />
+ TARSe
 
 AI-powered code analysis tool that provides intelligent feedback on code quality, security, and performance using Claude AI.
 
