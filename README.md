@@ -34,6 +34,9 @@ AI-powered code analysis tool that provides intelligent feedback on code quality
 3. Use the chat interface to ask questions about your code
 4. Export improved code or analysis results
 
+<img width="1911" height="961" alt="image" src="https://github.com/user-attachments/assets/43533b23-57d1-4b77-bca3-3197a457062a" />
+
+
 ## Configuration
 
 Create `.env` file:
